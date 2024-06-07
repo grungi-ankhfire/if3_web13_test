@@ -1,9 +1,10 @@
 body {
     background-color: magenta;
-    color: blue;
+    color: lime;
     padding: 2%;
 }
 
 h1 {
     text-align: center;
+    font-weight: 400;
 }
