@@ -1,4 +1,10 @@
 body {
-    background-color: red;
-    color: blue;
+    background-color: magenta;
+    color: lime;
+    padding: 2%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 400;
 }
