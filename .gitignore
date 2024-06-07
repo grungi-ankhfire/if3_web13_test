@@ -1,0 +1,9 @@
+# Les lignes commençant par # sont ignorées
+# subfolder/
+
+*.txt
+
+password.txt
+# subfolder/password.txt
+pass*.txt
+password.*
